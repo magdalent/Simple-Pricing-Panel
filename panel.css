@@ -1,0 +1,98 @@
+body{
+	background-color: #B9BBB9
+}
+
+html{
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 35px;
+}
+
+.paneel{
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px 25px;
+  width: 100%;
+  max-width: 960px;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  text-transform: uppercase;
+  box-shadow: 10px 10px 5px grey;
+
+
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+	width: 310px;
+}
+h2{
+	color: gray;
+	text-transform: uppercase;
+}
+
+#Cycling{
+	border-right: 1px solid #E0E0E0;
+	padding-bottom: 30PX;
+}
+
+#Pilates{
+border-right: 1px solid #E0E0E0;
+	padding-bottom: 30PX;
+}
+#Yoga{
+	padding-left: 10px;
+}
+
+#button1{
+  font-size:15PX;
+  background-color: #E0E0E0;
+  padding: 15px 35px;
+  border-radius: 10px;
+  color: #818181;
+	 text-transform: uppercase;
+
+
+}
+
+#button2{
+	 font-size:15PX;
+	 background-color: #E0E0E0;
+	 padding: 15px 35px;
+	 border-radius: 10px;
+	 color: #818181;
+	 text-transform: uppercase;
+	
+}
+
+#button3{
+	 font-size:15PX;
+	 background-color: #E0E0E0;
+	 padding: 15px 35px;
+	 border-radius: 10px;
+	 color: #818181;
+	 text-transform: uppercase;
+
+}
+#yogaimg{
+	height: 250px;
+}
+#PilatesImg{
+	height: 250px;
+}
+#biking{
+	height: 250px;
+}
+h5{
+	font-size: 10px;
+	text-shadow: 2px 2px 5px #B3B3B3;
+	color: #3E3E3E;
+
+}
+h3{
+	font-family: 'Open Sans', sans-serif;
+	color: #7B7B7B;
+	font-size: 35px;
+	text-shadow: 2px 2px 5px #B3B3B3;
+
+}
